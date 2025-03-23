@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>icon_app.ico</ApplicationIcon>
+    <FileVersion>v1</FileVersion>
+    <Version>1.6</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon_app.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="YoutubeDLSharp" Version="1.1.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\grima\Desktop\CmdLine Release\CmdLine.exe
+C:\Users\grima\Desktop\CmdLine Release\CmdLine.dll
+C:\Users\grima\Desktop\CmdLine Release\CmdLine.deps.json
+C:\Users\grima\Desktop\CmdLine Release\CmdLine.runtimeconfig.json
+C:\Users\grima\Desktop\CmdLine Release\CmdLine.pdb
+C:\Users\grima\Desktop\CmdLine Release\Newtonsoft.Json.dll
+C:\Users\grima\Desktop\CmdLine Release\YoutubeDLSharp.dll

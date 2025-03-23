@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CmdLine/1.6": {
+        "dependencies": {
+          "YoutubeDLSharp": "1.1.1"
+        },
+        "runtime": {
+          "CmdLine.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "YoutubeDLSharp/1.1.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/YoutubeDLSharp.dll": {
+            "assemblyVersion": "1.1.1.24210",
+            "fileVersion": "1.1.1.24210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CmdLine/1.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "YoutubeDLSharp/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C379jxThHf0DtOccJao1g8wd+4OeSaAT7gHArY65wFNuId+yQ+krT/iB9cjGfPoYJHxGwpxvLIvGh5as2+pnqA==",
+      "path": "youtubedlsharp/1.1.1",
+      "hashPath": "youtubedlsharp.1.1.1.nupkg.sha512"
+    }
+  }
+}
